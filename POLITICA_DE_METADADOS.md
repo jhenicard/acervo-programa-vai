@@ -291,6 +291,35 @@ Preservação da memória cultural periférica;
 Transparência na proveniência dos documentos;
 Acesso público sempre que juridicamente possível;
 Compromisso com a preservação digital de longo prazo.
+
+Local de Disponibilização
+GitHub
+
+YouTube
+
+Google Drive
+
+Internet Archive
+
+Vimeo
+
+Spcine Play
+
+Site Institucional
+
+Outro
+
+Diretriz de Armazenamento
+Arquivos audiovisuais de grande porte não deverão ser armazenados diretamente no repositório do GitHub.
+
+O repositório será utilizado prioritariamente para:
+
+metadados;
+documentação;
+miniaturas;
+páginas do acervo.
+Os arquivos audiovisuais poderão ser disponibilizados por meio de plataformas externas, mediante registro da URL de acesso.
+
 7. Revisões
 Versão 1.0
 
